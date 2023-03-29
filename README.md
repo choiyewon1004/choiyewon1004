@@ -1,5 +1,4 @@
-<div align="center">
-  
+
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choiyewon"/>
   
 ## 👋 Ye Won Choi👋 
@@ -19,7 +18,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiyewon1004&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiyewon1004&layout=compact&theme=tokyonight"/>
   
   ### 🛠 SKILL 🛠
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
