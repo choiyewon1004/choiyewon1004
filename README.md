@@ -1,4 +1,4 @@
-
+<div align="center">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choiyewon"/>
   
 ## 👋 Ye Won Choi👋 
@@ -6,7 +6,9 @@
 
   <a href="https://ywc99.tistory.com/">
     <img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> 
-  <a href="[https://lava-thrush-ec8.notion.site/6c06cb79f2474823861cb102c593f855](https://www.notion.so/b4451c49308c41dbae2a5fde02949ba6?pvs=4)"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="[https://lava-thrush-ec8.notion.site/6c06cb79f2474823861cb102c593f855](https://www.notion.so/b4451c49308c41dbae2a5fde02949ba6?pvs=4)">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    </a>
   
   🎓 배화여자대학교 정보보호학과 졸업  
   🎓 세종대학교 컴퓨터공학과 졸업   
