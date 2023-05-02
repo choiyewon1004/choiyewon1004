@@ -6,7 +6,7 @@
 
   <a href="https://ywc99.tistory.com/">
     <img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> 
-  <a href="[https://glib-sundae-9fa.notion.site/360a6dc04af24a3b89c8e60900520951](https://glib-sundae-9fa.notion.site/360a6dc04af24a3b89c8e60900520951)">
+  <a href="https://glib-sundae-9fa.notion.site/360a6dc04af24a3b89c8e60900520951">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
     </a>
   
