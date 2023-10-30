@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
     </a>
   
+  <a href="https://glib-sundae-9fa.notion.site/360a6dc04af24a3b89c8e60900520951">포트폴리오</a>
+  
   🎓 배화여자대학교 정보보호학과 졸업  
   🎓 세종대학교 컴퓨터공학과 졸업   
 
